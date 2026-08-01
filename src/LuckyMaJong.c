@@ -15,13 +15,13 @@
 #include <limits.h>
 #include <ctype.h>
 #include <stdbool.h>
+#include "gitversion.h"
 
 #define _(String) String
 #define MAXSETSIZE	INT_MAX - 2
 #define MAXROWS		2000
 #define MAXCOLS		20
 #define VERSION "0.2"
-const char *gittag = "";
 int mingame = 1;
 int maxgame = 100;
 
