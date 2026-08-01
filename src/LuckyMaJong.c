@@ -2,7 +2,7 @@
  ============================================================================
  Name        : LuckyMaJong.c
  Author      : dad
- Version     :
+ Version     : 0.1
  Copyright   : dwtfywwi
  Description : find all the lucky scores in offline Ma Jong
  ============================================================================
